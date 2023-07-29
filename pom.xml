@@ -184,7 +184,7 @@
         <linkpreview.version>2.1</linkpreview.version>
         <vcard.version>0.11.3</vcard.version>
         <qr.terminal.version>2.2</qr.terminal.version>
-        <libphonenumber.version>8.13.13</libphonenumber.version>
+        <libphonenumber.version>8.13.15</libphonenumber.version>
         <pdfbox.version>2.0.27</pdfbox.version>
         <poi.version>5.2.3</poi.version>
         <netty.buffer.version>4.1.93.Final</netty.buffer.version>
