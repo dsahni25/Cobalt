@@ -187,7 +187,7 @@
         <libphonenumber.version>8.13.13</libphonenumber.version>
         <pdfbox.version>2.0.27</pdfbox.version>
         <poi.version>5.2.3</poi.version>
-        <netty.buffer.version>4.1.93.Final</netty.buffer.version>
+        <netty.buffer.version>4.1.115.Final</netty.buffer.version>
         <sl4j.version>2.0.7</sl4j.version>
         <log4j.version>2.20.0</log4j.version>
         <delombok.plugin.version>1.18.24.1</delombok.plugin.version>
