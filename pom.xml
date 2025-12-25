@@ -189,7 +189,7 @@
         <poi.version>5.2.3</poi.version>
         <netty.buffer.version>4.1.93.Final</netty.buffer.version>
         <sl4j.version>2.0.7</sl4j.version>
-        <log4j.version>2.20.0</log4j.version>
+        <log4j.version>2.25.3</log4j.version>
         <delombok.plugin.version>1.18.24.1</delombok.plugin.version>
         <delombok.input>${project.basedir}/src/main/java</delombok.input>
         <delombok.output>${project.build.directory}/delombok</delombok.output>
